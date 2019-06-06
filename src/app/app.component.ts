@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularPortal';
+  public uname="hello";
+  public message;
 }
